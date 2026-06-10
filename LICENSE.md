@@ -1,4 +1,4 @@
-# 
+# Officiel AI leaf disease detection system flux de travail. Avec reconnaissance vocale et analytique prédictive — optimisé pour des performances maximales.
 
 
 
